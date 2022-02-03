@@ -1,6 +1,6 @@
 {
   "name": "nestjs-blockcypher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Nestjs module for blockcypher-apis",
   "repository": "https://github.com/agent-ly/nestjs-blockcypher.git",
   "license": "MIT",
